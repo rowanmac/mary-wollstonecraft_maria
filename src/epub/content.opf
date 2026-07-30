@@ -55,14 +55,14 @@
 		<meta property="file-as" refines="#author">Wollstonecraft, Mary</meta>
 		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Mary_Wollstonecraft</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78095613</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n78095613.html</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="writer-of-preface">William Godwin</dc:contributor>
 		<meta property="file-as" refines="#writer-of-preface">Godwin, William</meta>
 		<meta property="se:name.person.full-name" refines="#writer-of-preface">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#writer-of-preface">https://en.wikipedia.org/wiki/William_Godwin</meta>
-		<meta property="se:url.authority.nacoaf" refines="#writer-of-preface">http://id.loc.gov/authorities/names/n80024468</meta>
+		<meta property="se:url.authority.nacoaf" refines="#writer-of-preface">https://id.loc.gov/authorities/names/n80024468.html</meta>
 		<meta property="role" refines="#writer-of-preface" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#writer-of-preface" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
@@ -75,7 +75,7 @@
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
-		<meta property="se:url.authority.nacoaf" refines="#transcriber-2">http://id.loc.gov/authorities/names/no2011017869</meta>
+		<meta property="se:url.authority.nacoaf" refines="#transcriber-2">https://id.loc.gov/authorities/names/no2011017869.html</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
 		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
